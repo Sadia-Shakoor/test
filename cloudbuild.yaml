@@ -3,7 +3,7 @@ steps:
   args: 
   - functions
   - deploy
-  - him
+  - main
   - --source=.
   - --trigger-http
   - --runtime=python39
